@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I’m Bianca! 👋
 
-<!--
-**BiancaZephyr/biancazephyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm **Bianca Zephyr**, a passionate **Tech Lead** with a background in IT and a postgraduate specialization in gamification.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏆 **Tech Lead** driving innovation, collaboration, and growth across teams
+- 🎮 **CTF Enthusiast** — I love the thrill of Capture The Flag competitions!
+- 🎓 Graduated in **Information Technology**  
+- 🎓 Postgraduate in **Gamification** — I believe in the power of play to transform learning and work
+
+## 🛠️ Top Skills
+
+- Leadership in technical teams
+- Building and scaling software solutions
+- Mentoring and fostering developer growth
+
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/biancazephyr/)
+- [biancazephyr.com](https://biancazephyr.com)
+
+
+
+Thanks for stopping by! Feel free to connect or check out my work.
